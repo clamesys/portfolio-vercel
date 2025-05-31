@@ -468,9 +468,9 @@ After a drink.`,
       <section id="skills" className="py-20 bg-black">
         <div className="max-w-6xl mx-auto px-4">
           <h2 className="text-4xl font-bold text-center mb-16 font-accent glow-text">
-            Skills & Expertise (jack of all trades, master of some)
+            Skills & Expertise
           </h2>
-        <p className="text-xl text-center mb-16 font-accent glow-text">
+        <p className="text-xl text-center mb-1 font-accent glow-text">
             (jack of all trades, master of some)
         </p>
           
