@@ -381,7 +381,7 @@ I'll chase the dawn and touch the sky.`,
                   <p className="text-gray-400">Internship</p>
                 </div>
                 <span className="text-gray-400 glass-tag mt-2 md:mt-0">
-                  Jun 15 - Jul 15, 2025
+                  May 15 - Jul 15, 2025
                 </span>
               </div>
               <p className="text-gray-300 leading-relaxed">
