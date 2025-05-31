@@ -468,8 +468,11 @@ After a drink.`,
       <section id="skills" className="py-20 bg-black">
         <div className="max-w-6xl mx-auto px-4">
           <h2 className="text-4xl font-bold text-center mb-16 font-accent glow-text">
-            Skills & Expertise
+            Skills & Expertise (jack of all trades, master of some)
           </h2>
+        <p className="text-xl text-center mb-16 font-accent glow-text">
+            (jack of all trades, master of some)
+        </p>
           
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
             {Object.entries(skills).map(([category, skillList]) => (
