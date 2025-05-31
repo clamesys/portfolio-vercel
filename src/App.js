@@ -72,6 +72,15 @@ I'll chase the dawn and touch the sky.`,
     // Line four here.`,
     //   date: "2025"
     // }
+
+    {
+    title: "Women",
+    content: `Women,
+You're a poem.
+Written in ink,
+After a drink.`,
+    date: "2023"
+     }
   ];
 
   // ============ EASY EDIT SECTION: PROJECTS ============
