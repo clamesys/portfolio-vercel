@@ -209,8 +209,7 @@ After a drink.`,
             <div className="text-2xl font-bold font-accent text-white glow-text">
               Debayangshu Sen
             </div>
-            {/*<div className="hidden md:flex space-x-8">*/}
-            <div className="flex flex-wrap space-x-8 space-y-2">
+            <div className="hidden md:flex space-x-8">
               {['Home', 'About', 'Experience', 'Projects', 'Skills', 'Contact'].map((item) => (
                 <button
                   key={item}
