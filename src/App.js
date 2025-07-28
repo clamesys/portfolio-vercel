@@ -94,24 +94,24 @@ After a drink.`,
       image: "https://images.unsplash.com/photo-1562408590-e32931084e23"
     },
     {
-      title: "IoT Agricultural Sensor Node",
-      description: "Low-cost IoT sensor node for agricultural and environmental monitoring with real-time data collection.",
-      tech: ["IoT", "Embedded Systems", "Sensors", "Data Analytics"],
-      github: "https://github.com/clamesys/Low-Cost-IoT-Sensor-Node-for-Agricultural-and-Environmental-Monitoring",
-      image: "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0"
+      title: "Secure Authentication System",
+      description: "A professional-grade authentication system implementing secure user registration, login, and session management with JWT.",
+      tech: ["Python (Flask)", "JWT Authentication", "Role-Based Access Control (RBAC)"],
+      github: "https://github.com/clamesys/Secure-Authentication-System",
+      image: "https://images.unsplash.com/photo-1688986550777-26427d87a1a3"
     },
     {
-      title: "Security Research Tools",
-      description: "Advanced tools for security research including undetected mining malware and cryptographic utilities.",
-      tech: ["Security", "Cryptography", "Malware Analysis", "Research"],
-      github: "https://github.com/clamesys/mining-malware-and-tools",
-      image: "https://images.unsplash.com/photo-1555664424-778a1e5e1b48"
+      title: "Real-Time Stock Market Dashboard",
+      description: "A professional, interactive dashboard for tracking and visualizing live stock market data built with Python and Streamlit.",
+      tech: ["Web Scraping", "Streamlit", "Python"],
+      github: "https://github.com/clamesys/Real-Time-Stock-Market-Dashboard",
+      image: "https://raw.githubusercontent.com/clamesys/Real-Time-Stock-Market-Dashboard/refs/heads/main/ss/2.png"
     },
     {
-      title: "Encoder-Decoder Suite",
-      description: "Simple yet effective encoding and decoding tools for various cryptographic and data transformation needs.",
-      tech: ["Cryptography", "Python", "Data Security", "Algorithms"],
-      github: "https://github.com/clamesys/Encoder-Decoder",
+      title: "IoT Certificate Lifecycle",
+      description: "This project demonstrates the certificate lifecycle for IoT devices in a oneM2M compliant system.",
+      tech: ["Cryptography", "Python", "Data Security", "Certificate Authority"],
+      github: "https://github.com/clamesys/IoT-Cert-Life",
       image: "https://images.unsplash.com/photo-1645760051467-9d61131d133e"
     }
     // To add a new project, copy this template:
@@ -372,7 +372,7 @@ After a drink.`,
                   <p className="text-gray-400">Internship • Hybrid, India</p>
                 </div>
                 <span className="text-gray-400 glass-tag mt-2 md:mt-0">
-                  Feb 2025 - Present
+                  Feb 2025 - Aug 2025
                 </span>
               </div>
               <p className="text-gray-300 leading-relaxed">
