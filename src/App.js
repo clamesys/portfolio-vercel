@@ -91,7 +91,7 @@ After a drink.`,
       description: "Web-interfaced file transfer software using Python and HTML for seamless WiFi/LAN file sharing over intranet.",
       tech: ["Python", "HTML", "Networking", "Web Interface"],
       github: "https://github.com/clamesys/Wifi-FTP",
-      image: "https://images.unsplash.com/photo-1562408590-e32931084e23"
+      image: "https://opengraph.githubassets.com/1398db6a50ad70aa4bbfd5a7b760c050c00793beb9ee46bfa83342c99f0425b1/clamesys/Wifi-FTP"
     },
     {
       title: "Secure Authentication System",
