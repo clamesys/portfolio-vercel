@@ -138,55 +138,55 @@ After a drink.`,
     {
       title: "Play It Safe: Manage Security Risk",
       provider: "Google",
-      link: "https://www.coursera.org/professional-certificates/google-cybersecurity",
+      link: "https://www.coursera.org/account/accomplishments/verify/N3FECZN5YCUP",
       icon: "🛡️"
     },
     {
       title: "Foundations of Cybersecurity",
       provider: "Google",
-      link: "https://www.coursera.org/professional-certificates/google-cybersecurity",
+      link: "https://www.coursera.org/account/accomplishments/verify/5A2K798YTGCL",
       icon: "🔒"
     },
     {
       title: "Programming For Everybody",
       provider: "University of Michigan",
-      link: "https://www.coursera.org/specializations/python",
+      link: "https://www.coursera.org/account/accomplishments/verify/WLGLCFBTKBZX",
       icon: "🐍"
     },
     {
       title: "Digital Forensics Essentials",
       provider: "EC-Council",
-      link: "https://www.eccouncil.org/programs/digital-forensics-essentials-dfe/",
+      link: "https://learn.eccouncil.org/certificate/dda3033a-9afe-49f7-bac6-ee61c54e8983",
       icon: "🔍"
     },
     {
       title: "CodeRed Anonymity Course",
       provider: "EC-Council",
-      link: "https://www.eccouncil.org/",
+      link: "https://learn.eccouncil.org/certificate/4a86edac-0d56-45be-a9f2-4fd1b620a4ba",
       icon: "🎭"
     },
     {
       title: "Ethical Hacking From Scratch",
-      provider: "7Security",
-      link: "https://7security.com/",
+      provider: "Udemy",
+      link: "https://www.udemy.com/certificate/UC-67e07287-2da5-4f43-9e0c-ee870e57eaf9/",
       icon: "💻"
     },
     {
       title: "Scientific Computing with Python",
       provider: "freeCodeCamp",
-      link: "https://www.freecodecamp.org/certification/fcc8f8c8c8c/scientific-computing-with-python-v7",
+      link: "https://www.freecodecamp.org/certification/clamesys/scientific-computing-with-python-v7",
       icon: "🧮"
     },
     {
       title: "Data Analysis with Python",
       provider: "freeCodeCamp",
-      link: "https://www.freecodecamp.org/certification/fcc8f8c8c8c/data-analysis-with-python-v7",
+      link: "https://freecodecamp.org/certification/clamesys/data-analysis-with-python-v7",
       icon: "📊"
     },
     {
       title: "All Things 101",
       provider: "Infosys Springboard",
-      link: "https://infyspringboard.onwingspan.com/",
+      link: "https://verify.onwingspan.com/",
       icon: "🎓"
     }
     // To add a new certification, copy this template:
